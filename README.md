@@ -25,4 +25,4 @@
  <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
-![Snake animation](https://github.com/abdeIF/abdeIF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AbdeIF/AbdeIF/blob/output/github-contribution-grid-snake.svg)
