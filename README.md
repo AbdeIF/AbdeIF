@@ -3,7 +3,7 @@
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
 
-<img src="/img/ImagemGitHub.png" width="100%">
+<img src="/img/ImagemGitHub2.png" width="100%">
 
 <!-- Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <-- -->
 
