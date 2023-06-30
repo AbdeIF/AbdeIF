@@ -3,9 +3,9 @@
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
 
-<img src="/img/ImagemGitHub2.png" width="100%">
+<img src="/img/ImagemGitHub3.png" width="100%">
 
-<!-- Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <-- -->
+
 
 ## 🎖️ Skills: 
 <div style="display: inline_block"><br/>
@@ -25,8 +25,8 @@
  <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
-<div align="center">
+<!-- <div align="center">
 
   ![Snake animation](https://github.com/abdenaide/abdenaide/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> -->
